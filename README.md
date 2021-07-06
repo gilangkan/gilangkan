@@ -9,10 +9,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming, Bug Hunter, Explore New Knowledge
 
-### 🔥 Hobbies
+### 🔥 Skills
 - 🖥 Coding
-- ⚽️ Football
-- 👾 Bug Hunting
+- 👾 Bug Hunter
+- 🔒 CTF (Capture The Flag)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
