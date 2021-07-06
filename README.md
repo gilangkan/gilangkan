@@ -2,7 +2,7 @@
 
 [![gilangkan github stats](https://github-readme-stats.vercel.app/api?username=gilangkan)](https://github.com/gilangkan/gilangkan)
 
-### I'm a Newbie Developer!
+### 💪 I'm a Newbie Developer!
 - 🔭 I’m currently working on a ton of side project!
 - 🌱 I’m currently learning about Python specially Programming and Cyber Security
 - 👯 I’m looking to collaborate with other developer
