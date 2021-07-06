@@ -1,6 +1,6 @@
-## Hi there, I'm Ryan - aka NyanDev 👋
+## Hi there, I'm gilang - Aka Gilangkan 👋
 
-[![Nyancodeid's github stats](https://github-readme-stats.vercel.app/api?username=gilangkan)](https://github.com/gilangkan/gilangkan)
+[![gilangkan github stats](https://github-readme-stats.vercel.app/api?username=gilangkan)](https://github.com/gilangkan/gilangkan)
 
 ### I'm a Single Fighter Developer!
 - 🔭 I’m currently working on a ton of side project!
