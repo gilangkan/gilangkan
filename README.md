@@ -9,7 +9,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love programming, Bug Hunter, Explore New Knowledge
 
-### 📊 Weekly development breakdown
+### 🔥 Hobbies
+- 🖥 Coding
+- ⚽️ Football
+- 👾 Bug Hunting
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
